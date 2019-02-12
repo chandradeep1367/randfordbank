@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79553" started-at="2019-01-24T18:13:20Z" finished-at="2019-01-24T18:14:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79553" started-at="2019-01-24T18:13:20Z" finished-at="2019-01-24T18:14:40Z">
+      <class name="com.pagelibrary.com.ranfordbank.TestExecution">
+        <test-method status="PASS" signature="extentreport()[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="extentreport" is-config="true" duration-ms="815" started-at="2019-01-24T23:43:20Z" finished-at="2019-01-24T23:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentreport -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="5" started-at="2019-01-24T23:43:20Z" finished-at="2019-01-24T23:43:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.verify_lunch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="verify_lunch()[pri:-1, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="verify_lunch" duration-ms="52032" started-at="2019-01-24T23:43:20Z" finished-at="2019-01-24T23:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_lunch -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="1" started-at="2019-01-24T23:44:13Z" finished-at="2019-01-24T23:44:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_login()[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_login" duration-ms="1365" started-at="2019-01-24T23:44:13Z" finished-at="2019-01-24T23:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_login -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2019-01-24T23:44:14Z" finished-at="2019-01-24T23:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_branches()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_branches()[pri:1, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_branches" duration-ms="1766" started-at="2019-01-24T23:44:14Z" finished-at="2019-01-24T23:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_branches -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2019-01-24T23:44:16Z" finished-at="2019-01-24T23:44:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_newBranch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_newBranch()[pri:2, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_newBranch" duration-ms="9988" started-at="2019-01-24T23:44:16Z" finished-at="2019-01-24T23:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_newBranch -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2019-01-24T23:44:26Z" finished-at="2019-01-24T23:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_role()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_role()[pri:3, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_role" duration-ms="368" started-at="2019-01-24T23:44:26Z" finished-at="2019-01-24T23:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_role -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="1" started-at="2019-01-24T23:44:26Z" finished-at="2019-01-24T23:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_newRole()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_newRole()[pri:4, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_newRole" duration-ms="4113" started-at="2019-01-24T23:44:26Z" finished-at="2019-01-24T23:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_newRole -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2019-01-24T23:44:30Z" finished-at="2019-01-24T23:44:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_emp()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_emp()[pri:7, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_emp" duration-ms="427" started-at="2019-01-24T23:44:30Z" finished-at="2019-01-24T23:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_emp -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="beforemethod" is-config="true" duration-ms="0" started-at="2019-01-24T23:44:31Z" finished-at="2019-01-24T23:44:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagelibrary.com.ranfordbank.TestExecution.varify_newEmp()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="varify_newEmp()[pri:8, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="varify_newEmp" duration-ms="9403" started-at="2019-01-24T23:44:31Z" finished-at="2019-01-24T23:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify_newEmp -->
+        <test-method status="PASS" signature="savereport()[pri:0, instance:com.pagelibrary.com.ranfordbank.TestExecution@3e6fa38a]" name="savereport" is-config="true" duration-ms="1148" started-at="2019-01-24T23:44:40Z" finished-at="2019-01-24T23:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savereport -->
+      </class> <!-- com.pagelibrary.com.ranfordbank.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

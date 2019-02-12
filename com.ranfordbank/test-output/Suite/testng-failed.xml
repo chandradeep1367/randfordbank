@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.pagelibrary.com.ranfordbank.TestExecution">
+        <methods>
+          <include name="varify_login"/>
+          <include name="varify_branches"/>
+          <include name="varify_table_handle"/>
+          <include name="verify_lunch"/>
+          <include name="beforemethod"/>
+          <include name="extentreport"/>
+          <include name="savereport"/>
+        </methods>
+      </class> <!-- com.pagelibrary.com.ranfordbank.TestExecution -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
